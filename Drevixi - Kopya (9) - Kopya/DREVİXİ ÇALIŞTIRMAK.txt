@@ -1,0 +1,7 @@
+EN KISA YOL = kısayolbaslat.bat DOSYASINI ÇALIŞTIRMAK
+
+UZUN YOL
+drevixi dosyasını aç
+bin dosyasını aç
+debug dosyasını aç
+drevixi.exe dosyasına çift tıkla
