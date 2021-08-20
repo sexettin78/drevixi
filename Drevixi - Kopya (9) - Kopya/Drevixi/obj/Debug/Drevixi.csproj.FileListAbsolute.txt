@@ -1,0 +1,60 @@
+D:\vsproje\Drevixi\Drevixi\bin\Debug\Drevixi.exe.config
+D:\vsproje\Drevixi\Drevixi\bin\Debug\Drevixi.exe
+D:\vsproje\Drevixi\Drevixi\bin\Debug\Drevixi.pdb
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.csprojResolveAssemblyReference.cache
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.Properties.Resources.resources
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.csproj.GenerateResource.Cache
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.exe
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.pdb
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.drevixi.resources
+D:\vsproje\Drevixi\Drevixi\bin\Debug\tr-TR\Drevixi.resources.dll
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.drevixi.tr-TR.resources
+D:\vsproje\Drevixi\Drevixi\obj\Debug\tr-TR\Drevixi.resources.dll
+D:\vsproje\Drevixi\Drevixi\bin\Debug\Interop.WMPLib.dll
+D:\vsproje\Drevixi\Drevixi\bin\Debug\AxInterop.WMPLib.dll
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Interop.WMPLib.dll
+D:\vsproje\Drevixi\Drevixi\obj\Debug\AxInterop.WMPLib.dll
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.csproj.ResolveComReference.cache
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.paint.resources
+D:\vsproje\Drevixi\Drevixi\obj\Debug\Drevixi.wifi.resources
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\bin\Debug\Drevixi.exe.config
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Interop.WMPLib.dll
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\AxInterop.WMPLib.dll
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.csproj.ResolveComReference.cache
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.exe
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.pdb
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\bin\Debug\Drevixi.exe
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\bin\Debug\Drevixi.pdb
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\bin\Debug\tr-TR\Drevixi.resources.dll
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\bin\Debug\Interop.WMPLib.dll
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\bin\Debug\AxInterop.WMPLib.dll
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.csprojResolveAssemblyReference.cache
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.drevixi.resources
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.paint.resources
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.Properties.Resources.resources
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.wifi.resources
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.drevixi.tr-TR.resources
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\Drevixi.csproj.GenerateResource.Cache
+D:\vsproje\Drevixi - Kopya (9)\Drevixi\obj\Debug\tr-TR\Drevixi.resources.dll
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\bin\Debug\Drevixi.exe.config
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Interop.WMPLib.dll
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\AxInterop.WMPLib.dll
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.csproj.ResolveComReference.cache
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.exe
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.pdb
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\bin\Debug\Drevixi.exe
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\bin\Debug\Drevixi.pdb
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\bin\Debug\tr-TR\Drevixi.resources.dll
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\bin\Debug\Interop.WMPLib.dll
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\bin\Debug\AxInterop.WMPLib.dll
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.csprojResolveAssemblyReference.cache
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.drevixi.resources
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.paint.resources
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.Properties.Resources.resources
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.wifi.resources
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.drevixi.tr-TR.resources
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.csproj.GenerateResource.Cache
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\tr-TR\Drevixi.resources.dll
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.tarayici.resources
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.sohbet.resources
+D:\vsproje\Drevixi - Kopya (9) - Kopya\Drevixi\obj\Debug\Drevixi.kus.resources
