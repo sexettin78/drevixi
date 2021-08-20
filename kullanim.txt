@@ -1,0 +1,23 @@
+EN KISA YOL = drevixi kopya klasörünü açıp kısayolbaslat.bat DOSYASINI ÇALIŞTIRMAK
+
+
+
+
+Kısaca dosyayı açmak için:
+Drevixi -Final.rar\Drevixi - Kopya (9) - Kopya\Drevixi\bin\Debug\Drevixi.exe 
+
+Uzun yol:
+rar dosyasını açın.
+İçindeki Drevixi-Kopya klasörünü açın
+İçindeki Drevixi Dosyasını açın
+İçindeki bin dosyasını açın 
+İçindeki debug dosyasını açın
+içindeki drevixi.exeyi çalıştırın
+kısayol oluşturabilirsiniz.
+
+
+
+
+
+ikonlar ve fotoğraflar iconarchive.com'dan alınmıştır.
+c# dili ile yazılmıştır
